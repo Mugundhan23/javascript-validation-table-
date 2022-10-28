@@ -1,0 +1,21 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+table,th,tr,td{
+    border: 1px solid #d694e4;  ;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 30px;
+    margin-top: 40px;
+    margin-left: 600px;
+    font-size: 20px;  
+}
+table {
+    box-shadow: 0 0 19px #d694e4;  
+    
+   
+}
+.tableData{
+    cursor: pointer;
+}
